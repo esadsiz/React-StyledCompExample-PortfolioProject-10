@@ -8,7 +8,7 @@ const Header = () => {
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src="https://www.kindpng.com/picc/m/254-2544170_cliparts-burgundy-banner-hd-png-download.png"></Logo>
+          <Logo src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Burgundy_ribbon.svg/1200px-Burgundy_ribbon.svg.png"></Logo>
           <div>
             <Button color="#A62440">Apply Courses</Button>
             <Button bg="#A62440">Talk to Adviser</Button>
@@ -25,7 +25,7 @@ const Header = () => {
             </p>
             <Button bg="#A62440">Start Your New Carier</Button>
           </div>
-          <Image src="https://www.kindpng.com/picc/m/254-2544170_cliparts-burgundy-banner-hd-png-download.png"></Image>
+          <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Burgundy_ribbon.svg/1200px-Burgundy_ribbon.svg.png"></Image>
         </Flex>
       </Container>
     </StyledHeader>
