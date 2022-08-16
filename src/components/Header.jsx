@@ -10,8 +10,8 @@ const Header = () => {
         <Nav>
           <Logo src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Burgundy_ribbon.svg/1200px-Burgundy_ribbon.svg.png"></Logo>
           <div>
-            <Button color="#A62440">Apply Courses</Button>
-            <Button bg="#A62440">Talk to Adviser</Button>
+            <Button color="#A62440">Apply Button</Button>
+            <Button bg="#A62440">Talk Button</Button>
           </div>
         </Nav>
 
