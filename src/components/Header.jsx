@@ -25,7 +25,7 @@ const Header = () => {
             </p>
             <Button bg="#A62440">Start Your New Carier</Button>
           </div>
-          <Image src="./images/hero.jpg"></Image>
+          <Image src="https://seeklogo.com/images/P/purple-logo-D91C4B8226-seeklogo.com.png"></Image>
         </Flex>
       </Container>
     </StyledHeader>
