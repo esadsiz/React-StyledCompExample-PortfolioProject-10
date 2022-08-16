@@ -1,3 +1,1 @@
-## DEPLOYED:
-
-https://styled-cw.netlify.app/
+## https://react-styledcompexample-esadsiz.netlify.app
