@@ -9,10 +9,6 @@ export default function Footer() {
     <StyledFooter>
       <Container>
         <Flex>
-          <Logo src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Burgundy_ribbon.svg/1200px-Burgundy_ribbon.svg.png" alt="" />
-        </Flex>
-
-        <Flex>
           <ul>
             <li>Address Section</li>
             <li> +1 (534) 332 66 11</li>
