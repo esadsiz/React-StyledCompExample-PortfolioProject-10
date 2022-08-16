@@ -17,13 +17,11 @@ const Header = () => {
 
         <Flex>
           <div>
-            <h1>The IT Career of Your Dreams Starts Here!</h1>
+            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, ad.</h1>
             <p>
-              Clarusway is a leading international software Bootcamp. Join a
-              micro class online with other trainees and learn coding skills
-              with a highly-skilled instructor.
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae repellendus recusandae pariatur praesentium exercitationem temporibus quidem atque officia consectetur cum!
             </p>
-            <Button bg="#A62440">Start Your New Carier</Button>
+            <Button bg="#A62440">Start Button</Button>
           </div>
           <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Burgundy_ribbon.svg/1200px-Burgundy_ribbon.svg.png"></Image>
         </Flex>
