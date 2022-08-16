@@ -8,7 +8,7 @@ const Header = () => {
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src="./images/logo.png"></Logo>
+          <Logo src="https://www.kindpng.com/picc/m/254-2544170_cliparts-burgundy-banner-hd-png-download.png"></Logo>
           <div>
             <Button color="#A62440">Apply Courses</Button>
             <Button bg="#A62440">Talk to Adviser</Button>
@@ -25,7 +25,7 @@ const Header = () => {
             </p>
             <Button bg="#A62440">Start Your New Carier</Button>
           </div>
-          <Image src="https://seeklogo.com/images/P/purple-logo-D91C4B8226-seeklogo.com.png"></Image>
+          <Image src="https://www.kindpng.com/picc/m/254-2544170_cliparts-burgundy-banner-hd-png-download.png"></Image>
         </Flex>
       </Container>
     </StyledHeader>
