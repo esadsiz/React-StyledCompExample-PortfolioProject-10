@@ -14,9 +14,9 @@ export default function Footer() {
 
         <Flex>
           <ul>
-            <li>1775 Tysons Blvd. 5th Floor. Tysons, VA 22102</li>
-            <li> +1 (571) 360 66 77</li>
-            <li>contact@clarusway.com</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li> +1 (534) 332 66 11</li>
+            <li>mail@mail.com</li>
           </ul>
           <ul>
             <li>About Us</li>
