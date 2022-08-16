@@ -14,7 +14,7 @@ export default function Footer() {
 
         <Flex>
           <ul>
-            <li>Address.</li>
+            <li>Address Section</li>
             <li> +1 (534) 332 66 11</li>
             <li>mail@mail.com</li>
           </ul>
