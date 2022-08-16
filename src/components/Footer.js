@@ -9,7 +9,7 @@ export default function Footer() {
     <StyledFooter>
       <Container>
         <Flex>
-          <Logo src="https://www.kindpng.com/picc/m/254-2544170_cliparts-burgundy-banner-hd-png-download.png" alt="" />
+          <Logo src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Burgundy_ribbon.svg/1200px-Burgundy_ribbon.svg.png" alt="" />
         </Flex>
 
         <Flex>
