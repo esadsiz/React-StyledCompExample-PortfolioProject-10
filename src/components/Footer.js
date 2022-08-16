@@ -9,7 +9,7 @@ export default function Footer() {
     <StyledFooter>
       <Container>
         <Flex>
-          <Logo src="./images/logo_white.png" alt="" />
+          <Logo src="https://seeklogo.com/images/P/purple-logo-D91C4B8226-seeklogo.com.png" alt="" />
         </Flex>
 
         <Flex>
