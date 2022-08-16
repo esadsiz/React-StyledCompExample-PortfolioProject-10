@@ -9,12 +9,12 @@ export default function Footer() {
     <StyledFooter>
       <Container>
         <Flex>
-          <Logo src="https://seeklogo.com/images/P/purple-logo-D91C4B8226-seeklogo.com.png" alt="" />
+          <Logo src="https://www.kindpng.com/picc/m/254-2544170_cliparts-burgundy-banner-hd-png-download.png" alt="" />
         </Flex>
 
         <Flex>
           <ul>
-            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Address.</li>
             <li> +1 (534) 332 66 11</li>
             <li>mail@mail.com</li>
           </ul>
